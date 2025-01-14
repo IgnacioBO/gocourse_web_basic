@@ -1,7 +1,7 @@
 package main
 
 //Primero hacemos git init y generamos el go.mod -> go mod init
-//Usaremos el package net/http
+//Usaremos el package net/http.
 import (
 	"fmt"
 	"io"
